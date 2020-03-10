@@ -24,10 +24,10 @@
         "vue-template-compiler": "^2.6.10"
     },
     "consumedServices": {
-      "autosave": {
-        "versions": {
-          "1.0.0": "consumeAutosave"
+        "autosave": {
+            "versions": {
+                "1.0.0": "consumeAutosave"
+            }
         }
-      }
     }
 }
